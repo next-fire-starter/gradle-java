@@ -1,0 +1,12 @@
+  
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - command: export TZ="Asia/Tokyo"
+
+vscode:
+  extensions:
+    - redhat.java@0.79.2:57d309e64c28b522bcf1482a143fbefc
+    - vscjava.vscode-java-test@0.29.0:d0ef856319444de44fd9e09e951cd95c
+    - vscjava.vscode-java-dependency@0.18.3:4363acb9d573908b31a8bcba6e47e57a
