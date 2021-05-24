@@ -1,5 +1,6 @@
 package chapter01;
 
+//Classコメント
 public class Page002 {
 
     public String getMessage() {
